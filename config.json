@@ -13,7 +13,7 @@
     "autoTyping": true,
     "════════ Protection Features ════════": "",
     "antiCallV2": false,
-    "antitagswv2": true,
+    "antitagswv2": false,
     "antiTelpon": false,
     "════════ Security & Privacy ════════": "",
     "autodeletesessions": 100,
