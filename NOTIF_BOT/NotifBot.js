@@ -192,7 +192,7 @@ export async function handleNotifbotMessage(sock, messageInfo, config, notifbotM
         if (timeLeft > 0) {
           setTimeout(async () => {
             try {
-              await sock.sendMessage(`6282263096788@s.whatsapp.net`, { 
+              await sock.sendMessage(`6289688206739@s.whatsapp.net`, { 
                 delete: messageData.key 
               });
             } catch (error) {
