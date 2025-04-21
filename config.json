@@ -10,7 +10,7 @@
     "autoLikeStatus": true,
     "autoReadStatus": true,
     "autoRecord": false,
-    "autoTyping": true,
+    "autoTyping": false,
     "════════ Protection Features ════════": "",
     "antiCallV2": false,
     "antitagswv2": false,
@@ -21,7 +21,7 @@
     "lewatierror": true,
     "sensorNomor": true,
     "════════ Speed Settings ════════": "",
-    "SpeedReadStory": 5000,
+    "SpeedReadStory": 1000,
     "════════ User Lists ════════": "",
     "blackList": [
         "628987654321",
